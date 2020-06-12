@@ -21,13 +21,11 @@ require (
 )
 
 replace (
-	github.com/xyzsss/go-gin-example/conf => /Users/fajinxia/gocode/src/github.com/go-gin-example/conf
-	github.com/xyzsss/go-gin-example/middleware => /Users/fajinxia/gocode/src/github.com/go-gin-example/middleware
-	github.com/xyzsss/go-gin-example/models => /Users/fajinxia/gocode/src/github.com/go-gin-example/models
-	github.com/xyzsss/go-gin-example/pkg/e => /Users/fajinxia/gocode/src/github.com/go-gin-example/pkg/e
-	github.com/xyzsss/go-gin-example/pkg/setting => /Users/fajinxia/gocode/src/github.com/go-gin-example/pkg/setting
-	github.com/xyzsss/go-gin-example/pkg/util => /Users/fajinxia/gocode/src/github.com/go-gin-example/pkg/util
-	// github.com/xyzsss/go-gin-example/routers/api/v1 => /Users/fajinxia/gocode/src/github.com/go-gin-example/routers/api/v1
-
-	github.com/xyzsss/go-gin-example/routers => /Users/fajinxia/gocode/src/github.com/go-gin-example/routers
+	github.com/xyzsss/go-gin-example/conf => ~/gocode/src/github.com/go-gin-example/conf
+	github.com/xyzsss/go-gin-example/middleware => ~/gocode/src/github.com/go-gin-example/middleware
+	github.com/xyzsss/go-gin-example/models => ~/gocode/src/github.com/go-gin-example/models
+	github.com/xyzsss/go-gin-example/pkg/e => ~/gocode/src/github.com/go-gin-example/pkg/e
+	github.com/xyzsss/go-gin-example/pkg/setting => ~/gocode/src/github.com/go-gin-example/pkg/setting
+	github.com/xyzsss/go-gin-example/pkg/util => ~/gocode/src/github.com/go-gin-example/pkg/util
+	github.com/xyzsss/go-gin-example/routers => ~/gocode/src/github.com/go-gin-example/routers
 )
